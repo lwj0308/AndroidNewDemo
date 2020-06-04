@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="tv_1">teamA</string>
+    <string name="tv_2">teamB</string>
+    <string name="scoreA" translatable="false">0</string>
+    <string name="scoreB" translatable="false">0</string>
+    <string name="bt_1" translatable="false">+1</string>
+    <string name="bt_2" translatable="false">+2</string>
+    <string name="bt_3" translatable="false">+3</string>
+    <string name="bt_undo">undo</string>
+    <string name="bt_reset">reset</string>
+</resources>

@@ -1,0 +1,7 @@
+include ':drawerdemo'
+include ':workmanager'
+include ':viewbindingdemo2kotlin'
+include ':viewbindingdemo'
+include ':viewpager2demo'
+include ':app', ':constraintlayout', ':uidemo', ':localization', ':orientation', ':viewmodeltest', ':chronometerdemo', ':livedatatest', ':databinding', ':score', ':viewmoderestore', ':viewmodelsp', ':navigationdemo', ':navdemo', ':navviewmodel', ':calculationtest', ':lifecycles', ':roombasic', ':bottomnavigation', ':pagingdemo', ':seriallzable', ':parcelable', ':jsondemo', ':myapplication', ':gallery'
+rootProject.name='AndroidNewDemo'

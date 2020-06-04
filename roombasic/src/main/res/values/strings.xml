@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomBasic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_add_submit">提交</string>
+    <string name="et_add_hint_chinese">中文释义</string>
+    <string name="et_add_hint_english">English Word</string>
+    <string name="tv_add_title">添加单词</string>
+    <string name="search">Search</string>
+    <string name="switch_view_type">切换视图</string>
+    <string name="clear_data">清空数据</string>
+</resources>

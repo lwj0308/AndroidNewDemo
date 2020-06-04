@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveDataTest</string>
+    <string name="bt_plus">+1</string>
+    <string name="bt_minus">-1</string>
+    <string name="ib_up">up</string>
+    <string name="ib_down">down</string>
+</resources>

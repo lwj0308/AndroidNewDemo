@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记分</string>
+    <string name="bt_reset">重置</string>
+    <string name="bt_undo">撤回</string>
+    <string name="tv_1">A队</string>
+    <string name="tv_2">B队</string>
+</resources>

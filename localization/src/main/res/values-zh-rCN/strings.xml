@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">本地化</string>
+    <string name="title">欢迎</string>
+    <string name="message">这是一条信息</string>
+    <string name="bt_send">发送</string>
+</resources>

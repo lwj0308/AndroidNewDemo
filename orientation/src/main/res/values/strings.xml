@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Orientation</string>
+    <string name="bt_2">bt_2</string>
+    <string name="bt_3">bt_3</string>
+    <string name="bt_4">bt_4</string>
+    <string name="bt_5">bt_5</string>
+    <string name="bt_6">bt_6</string>
+    <string name="bt_7">bt_7</string>
+    <string name="title">Welcome</string>
+</resources>

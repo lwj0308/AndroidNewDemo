@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+    <string name="show_1">Display</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="open_down">开关</string>
+    <string name="et_hint">请输入数字</string>
+    <string name="confirm">确定</string>
+    <string name="rb_android">Android</string>
+    <string name="rb_apple">Apple</string>
+    <string name="image_logo">Logo</string>
+    <string name="cb_1">语文</string>
+    <string name="cb_2">数学</string>
+    <string name="cb_3">英语</string>
+</resources>
